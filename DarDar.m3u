@@ -1,0 +1,290 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="မြန်မာ",Channel K HD
+https://d39q34kqnktegw.cloudfront.net/live/30928757-565c-465a-95ec-2a23cb2d5812/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",Channel K SD
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",fortune
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",MRTV-4 HD
+https://d39q34kqnktegw.cloudfront.net/live/47772cdc-0592-4368-97ac-fd5bf5827acd/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",Mahar TV
+https://d2e3tk355loocn.cloudfront.net/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV Entertainment (မြန်မာ)
+https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV (မြန်မာ) 
+https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",HBO MM
+https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",HBO Signature 
+https://d3ra9zflrl0q8d.cloudfront.net/live/cf3cb088-d012-4d2b-a851-2ebc0f9bf39a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",Cinemax MM
+https://d3b9mm4o9vuo42.cloudfront.net/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",HBO Hits
+https://df2rtcuwip1h0.cloudfront.net/live/4cb5bac7-c063-41b7-8f85-aa0919f46b9f/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",HBO Family
+https://df2rtcuwip1h0.cloudfront.net/live/2fe6bd68-5c12-410f-a0dc-aafda8fa8fe3/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",Red by HBO
+https://d15yubay3yee43.cloudfront.net/live/40f31dda-31ee-48e9-8a8e-d9c7cc3f1429/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 group-title="မြန်မာ",5 Plus
+https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Warner TV
+https://d3ra9zflrl0q8d.cloudfront.net/live/2f023ed9-4cc5-405f-ad1b-c05ec0ee5e3f/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,B4U Movies
+https://d3b9mm4o9vuo42.cloudfront.net/live/0bb610cb-6ff4-4154-9371-1a89166fdd2a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Blue Ant Entertainment
+https://d3ra9zflrl0q8d.cloudfront.net/live/2af02c40-26a9-441c-a20f-758df3e57d52/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,tvN
+https://d3ra9zflrl0q8d.cloudfront.net/live/dc6a6894-6f7d-4d0c-8146-823931cc8e64/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,MTV Live
+https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,MTV Asia
+https://d3ra9zflrl0q8d.cloudfront.net/live/2206a44d-e895-4e46-a3cf-3b9c47f444a3/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,KBS World
+https://d3b9mm4o9vuo42.cloudfront.net/live/127e0f6a-5fc0-4a3e-9fc5-3c97907380d8/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Cartoon Network MM
+https://d3b9mm4o9vuo42.cloudfront.net//live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Nickelodeon MM
+https://df2rtcuwip1h0.cloudfront.net//live/54d06d1f-43a1-4095-ac3d-286d6ba510c1/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,DreamWorks TV
+https://d3b9mm4o9vuo42.cloudfront.net/live/574586ab-d006-4794-a04f-2d89a12049c2/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Boomerang
+https://d3b9mm4o9vuo42.cloudfront.net//live/e39f1b59-d221-45fe-ab89-e6856ee5c31c/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,CBeebies
+https://d15yubay3yee43.cloudfront.net//live/55dd1535-d7e2-4658-9c0e-d8a52149ebd0/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Baby TV
+https://d15yubay3yee43.cloudfront.net/live/c0fca3c0-a4f0-496a-862a-ab708218c2ec/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,ESR 24/7 eSports Network
+https://d3ra9zflrl0q8d.cloudfront.net/live/dab47fbf-83e0-44a8-9957-a83bc5ebcb50/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Fox Sports 1
+https://d15yubay3yee43.cloudfront.net/live/f512c3ad-f27d-4177-b570-21dbf2a22522/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Fox Sports 2
+https://d15yubay3yee43.cloudfront.net/live/1a662db1-8f85-4d97-853a-ca6a4124e69a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Fox Sports 3
+https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,EDGE Sport
+https://d3b9mm4o9vuo42.cloudfront.net/live/99be508b-eecf-4b47-8740-3946da37a885/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+https://df2rtcuwip1h0.cloudfront.net/live/9ea092a8-6dbe-47b3-bc7f-0683f8b62814/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,National Geographic
+https://df2rtcuwip1h0.cloudfront.net/live/2931affb-1cbe-4599-bb13-3a8fa02bfe9f/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Nat Geo People
+https://df2rtcuwip1h0.cloudfront.net/live/c223d2d6-dd79-4079-bd6e-d05150bdd5bb/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,BBC Earth
+https://d15yubay3yee43.cloudfront.net/live/5dd91f1b-1562-4ad5-84c6-aef1eb1d29c4/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,BBC Lifestyle
+https://d15yubay3yee43.cloudfront.net/live/f02810ce-c4b2-4126-ab6f-5983a06cead7/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Smithsonian Channel
+https://df2rtcuwip1h0.cloudfront.net/live/b554bb99-fde4-423f-9ac1-2d74c92c0004/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,CCN
+https://d3b9mm4o9vuo42.cloudfront.net/live/a05bc772-b9a9-408f-a1cd-a3989c5e4d4e/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,BBC World News
+https://d15yubay3yee43.cloudfront.net/live/e915a20a-15bc-4c76-8ad0-86973e34105a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Channel News Asia
+https://df2rtcuwip1h0.cloudfront.net/live/400fe990-e05f-42a5-8ee7-84f2213f9e98/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,KBS World 24
+https://d3b9mm4o9vuo42.cloudfront.net/live/fbd1ef91-d8c2-45d1-8b66-fb780c945e65/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Bloomberg TV
+https://d3ra9zflrl0q8d.cloudfront.net/live/e40f91e4-3d35-4e3f-a65d-befbd6c2fdd2/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Arirang TV
+https://df2rtcuwip1h0.cloudfront.net/live/403e4b65-c420-4ad4-9779-9916759b39c6/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,YTN WORLD
+https://df2rtcuwip1h0.cloudfront.net/live/d7b001b6-ff54-4704-aafa-35574e79c938/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,DW English
+https://d3b9mm4o9vuo42.cloudfront.net/live/c6e35cd7-9806-4530-8fe1-3818904abe9f/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,CGTN
+https://d3ra9zflrl0q8d.cloudfront.net/live/650d7ecc-804c-4164-8654-1b547b39a5be/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,DVB
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1,MWD 
+http://203.81.84.130/hls/mwd/index.m3u8
+
+
+#EXTINF:-1,MWD Variety 
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+
+#EXTINF:-1,Movie HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+
+
+#EXTINF:-1,Docmen HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+
+
+#EXTINF:-1,Serie HD 
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+
+
+#EXTINF:-1,Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1,Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+
+
+#EXTINF:-1,Chanel 7   
+https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
+
+
+
+#EXTINF:-1,Mahardi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+
+
+#EXTINF:-1,mntv 
+https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1,Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
+
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Cookie
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 1
+http://136.243.177.164/BNT1/playlist.m3u8
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 2
+http://136.243.177.164/BNT2/playlist.m3u8
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 3
+http://136.243.177.164/BNT3/playlist.m3u8
+#EXTINF:0 group-title="VIP",BNT 4
+http://136.243.177.164/BNT4/playlist.m3u8
+#EXTINF:0 group-title="VIP",NOVA TV
+http://136.243.177.164/NOVATV/playlist.m3u8
+#EXTINF:0 group-title="VIP",NOVA SPORT
+http://136.243.177.164/NOVASPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",KINO NOVA
+http://136.243.177.164/KINONOVA/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV HD
+http://136.243.177.164/BTV/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV ACTION
+http://136.243.177.164/BTVACTION/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV CINEMA
+http://136.243.177.164/BTVCINEMA/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV COMEDY
+http://136.243.177.164/BTVCOMEDY/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV LADY HD
+http://136.243.177.164/BTVLADY/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA
+http://136.243.177.164/DIEMA/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA FAMILY
+http://136.243.177.164/DIEMAFAMILY/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA SPORT HD
+http://136.243.177.164/DIEMASPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA SPORT 2 HD
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 1 HD
+http://136.243.177.164/MAXSPORT1/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 2 HD
+http://136.243.177.164/MAXSPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 3 HD
+http://136.243.177.164/MAXSPORT3/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 4 HD
+http://136.243.177.164/MAXSPORT4/playlist.m3u8
+#EXTINF:0 group-title="VIP",RING HD
+http://136.243.177.164/RINGBG/playlist.m3u8
+#EXTINF:0 group-title="VIP",EUROSPORT 1
+http://136.243.177.164/EUROSPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",EUROSPORT 2
+http://136.243.177.164/EUROSPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO 2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO 3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:0 group-title="VIP",Cinemax 1 HD
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:0 group-title="VIP",Cinemax 2 HD
+http://136.243.177.164/CINEMAX2/playlist.m3u8
+#EXTINF:0 group-title="VIP",AXN HD
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX CRIME HD
+http://136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX LIFE HD
+http://136.243.177.164/FOXLIFE/playlist.m3u8
+#EXTINF:0 group-title="VIP",TLC
+http://136.243.177.164/TLC/playlist.m3u8
+#EXTINF:0 group-title="VIP",78 TV HD
+http://136.243.177.164/78TV/playlist.m3u8
+#EXTINF:0 group-title="VIP",ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:0 group-title="VIP",NATIONAL GEOGRAPHIC
+http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
+#EXTINF:0 group-title="VIP",DISCOVERY CHANNEL
+http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:0 group-title="VIP",ID HD
+http://136.243.177.164/IDXTRA/playlist.m3u8
+#EXTINF:0 group-title="VIP",24 KITCHEN HD
+http://136.243.177.164/24KITCHEN/playlist.m3u8
+#EXTINF:0 group-title="VIP",CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:0 group-title="VIP",NICKELODEON
+http://136.243.177.164/NICKELODEON/playlist.m3u8
+#EXTINF:0 group-title="VIP",THE VOICE
+http://136.243.177.164/THEVOICE/playlist.m3u8
+#EXTINF:0 group-title="VIP",CITYTV
+http://136.243.177.164/CITYTV/playlist.m3u8
+#EXTINF:0 group-title="VIP",FEN TV
+http://136.243.177.164/FENTV/playlist.m3u8
