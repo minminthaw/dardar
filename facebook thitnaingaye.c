@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:facebook_thitnaingaye
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar (မြန်မာ)
+https://d2e3tk355loocn.cloudfront.net/stream.m3u8
 #EXTINF:0 group-title="VIP" group-title="VIP",BNT 1
 http://136.243.177.164/BNT1/playlist.m3u8
 #EXTINF:0 group-title="VIP" group-title="VIP",BNT 2
@@ -430,8 +432,7 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
 
 
 
-#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar (မြန်မာ)
-https://d2e3tk355loocn.cloudfront.net/stream.m3u8
+
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel K (မြန်မာ)
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
