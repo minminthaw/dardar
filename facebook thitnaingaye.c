@@ -452,7 +452,7 @@ http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", DVB (မြန်မာ)
-https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+https://stream-01.sg1.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgiow71YIQ9X34_F4H537kE)/dm/3/x7x7str/s/live-0.m3u8
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Maharbawdi (မြန်မာ)
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
