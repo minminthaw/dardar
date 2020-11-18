@@ -426,3 +426,66 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133305
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133304
 #EXTINF:-1 group-title="test",DAZN 12 HD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
+
+
+
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar (မြန်မာ)
+https://d2e3tk355loocn.cloudfront.net/stream.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel K (မြန်မာ)
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel 7 (မြန်မာ)
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel 9 (မြန်မာ)
+http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", fortune (မြန်မာ)
+http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mizzima TV (မြန်မာ)
+http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", mntv (မြန်မာ)
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", DVB (မြန်မာ)
+https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Maharbawdi (မြန်မာ)
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV 4 (မြန်မာ)
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV (မြန်မာ)
+http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRIV (မြန်မာ)
+ http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD (မြန်မာ)
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Movie HD  (မြန်မာ)
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Serie HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Variety (မြန်မာ)
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Docmen HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Shopping HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD Family HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
