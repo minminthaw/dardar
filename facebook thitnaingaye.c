@@ -500,4 +500,12 @@ http://3shop.link:25461/live/tv/tv/10.m3u8
 #EXTINF:-1 group-title="SP",SPORT TV 3
 http://tv.protvmm.live:5080/LiveApp/streams/555150774283011419524494.m3u8
 #EXTINF:-1 group-title="SP",SPORT TV 1
-http://tv.protvmm.live:5080/LiveApp/streams/884137335772629413446188.m3u8
+http://tv.protvmm.live:5080/LiveApp/streams/555150774283011419524494.m3u8
+#EXTINF:-1 group-title="SP",SPORT TV 2
+http://3shop.link:25461/live/tv/tv/7.m3u8
+#EXTINF:-1 group-title="SP",ဘိုင် SPORT 1
+http://3shop.link:25461/live/tv/tv/1.m3u8
+#EXTINF:-1 group-title="SP",ဘိုင် SPORT 2
+http://3shop.link:25461/live/tv/tv/2.m3u8
+#EXTINF:-1 group-title="SP",ဘိုင် SPORT 3
+http://3shop.link:25461/live/tv/tv/3.m3u8
