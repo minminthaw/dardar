@@ -494,5 +494,14 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
-#EXTINF:-1,more
-https://short.absidev.com/tv1254
+#EXTINF:-1 group-title="ခန",WWE
+https://short.absidev.com/tvwwe
+#EXTINF:-1 group-title="ခန",MOVIE NOW
+https://short.absidev.com/movienowtem
+#EXTINF:-1 group-title="ခန",Start Sport
+https://short.absidev.com/startsport
+#EXTINF:-1 group-title="ခန",AN Sport
+https://short.absidev.com/anen
+#EXTINF:-1 group-title="ယာယီ",BUMBLEBEE
+https://short.absidev.com/bumblebee
+
