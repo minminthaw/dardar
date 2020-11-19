@@ -95,15 +95,15 @@ http://136.243.177.164/FENTV/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",Fox Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="test" group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES HD
+#EXTINF:-1  group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="test" group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES SD
+#EXTINF:-1  group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES SD
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
-#EXTINF:-1 group-title="test" group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" ,FOX HD
+#EXTINF:-1  group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" ,FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="test" group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",Asian Food Channel HD
+#EXTINF:-1 group-title="ဖျော်ဖြေရေး" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",Asian Food Channel HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:46 group-title="ဖျော်ဖြေရေး" Geographic HD" tvg-name="Fashion TV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/02/14/136186-davinci.png",Davinci HD
+#EXTINF:46 group-title="ဖျော်ဖြေရေး",Davinci HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",BEIN MOVIES ACTION HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
