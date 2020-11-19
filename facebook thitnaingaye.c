@@ -614,3 +614,9 @@ https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WgqB6W.jpg" group-title="SPORTS 3", Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/17/11/768x432/skysports-chelsea-tv-logo-light-jpg_4163279.jpg" group-title="SPORTS 3", Chelsea TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BeIN Sports",BeIN SPORT 1 TH
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 TH
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
