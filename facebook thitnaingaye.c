@@ -116,15 +116,19 @@ http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
 #EXTINF:0 group-title="China",CGTN
 http://220.158.149.14:9999/live/TV00000000000000000016@HHZT;LIVE
 
-#EXTINF:-1 group-title="test" group-title="KIDS",CARTOON
+#EXTINF:-1 group-title="KIDS",CARTOON
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="test" group-title="KIDS",PBS KID
+#EXTINF:-1 group-title="KIDS",PBS KID
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
-#EXTINF:-1 group-title="test" group-title="KIDS",3ABN KIDS TV 
+#EXTINF:-1 group-title="KIDS",3ABN KIDS TV 
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="test" group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
+#EXTINF:-1 group-title="KIDS",Cartoon NEtwork
+http://tv.protvmm.live:5080/LiveApp/streams/533550312220721966214199.m3u8
+
+
 
 #EXTINF:-1 group-title="test" group-title="SP",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
@@ -505,3 +509,13 @@ http://3shop.link:25461/live/tv/tv/1.m3u8
 http://3shop.link:25461/live/tv/tv/2.m3u8
 #EXTINF:-1 group-title="SP",ဘိုင် SPORT 3
 http://3shop.link:25461/live/tv/tv/3.m3u8
+
+#EXTINF:-1 group-title="ခန",1
+http://tv.protvmm.live:5080/LiveApp/streams/339736809563234772701548.m3u8
+#EXTINF:-1 group-title="ခန",2
+http://tv.protvmm.live:5080/LiveApp/streams/361370068372741804943809.m3u8
+#EXTINF:-1 group-title="ခန",SPORT TV ၄
+http://tv.protvmm.live:5080/LiveApp/streams/051800272554384399623963.m3u8
+#EXTINF:-1 group-title="ခန",SPORT TV ၄
+http://tv.protvmm.live:5080/LiveApp/streams/906776989787964521734533.m3u8
+
