@@ -598,3 +598,19 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
 #EXTINF:0 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS 1", Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iri26TLi3P8/XhPc4e0FX5I/AAAAAAAAASA/TOYbXFdTy1QSiive8vWkOh8LogXpWAzQQCLcBGAsYHQ/s1600/07202021347.png" group-title="SPORTS 3", NBA TV
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anwqqIH.png" group-title="SPORTS 3", FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNt4BkL.jpg" group-title="SPORTS 3", SBS Sports
+http://211.245.55.198:1024/m2u/239.192.67.130:49220  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aemny9A.jpg" group-title="SPORTS 3", GOLF CHANNEL 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="SPORTS 3",LIVERPOOL TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="SPORTS 3",MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jEMZyU3.png"  group-title="SPORTS 3", Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WgqB6W.jpg" group-title="SPORTS 3", Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
