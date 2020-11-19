@@ -538,3 +538,15 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-name="FOX SPORT 3" tvg-chno="280" tvg-logo="https://i.imgur.com/BYCucwd.png" group-title="FOX",  True V FOX Sports 3 
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pa76wzj.jpg" group-title="HBO", HBO 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j83f8jq.jpg" group-title="HBO", HBO Hits 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ui8rEJG.png" group-title="HBO", HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mcvMqO.png" group-title="HBO", HBO Family 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxyOKpj.jpg" group-title="HBO", Red by HBO 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
