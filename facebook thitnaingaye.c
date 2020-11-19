@@ -520,4 +520,17 @@ http://tv.protvmm.live:5080/LiveApp/streams/051800272554384399623963.m3u8
 http://tv.protvmm.live:5080/LiveApp/streams/906776989787964521734533.m3u8
 #EXTINF:-1 group-title="ခန",5
 http://tv.protvmm.live:5080/LiveApp/streams/432138202182171188992319.m3u8
+#EXTINF:-1 group-title="ခန",6
+http://3shop.link:25461/live/tv/tv/24.m3u8
+#EXTINF:-1 group-title="ခန",6
+http://3shop.link:25461/live/tv/tv/16.m3u8
+#EXTINF:-1 group-title="ခန",6
+http://3shop.link:25461/live/tv/tv/17.m3u8
+#EXTINF:-1 group-title="ခန",8
+http://3shop.link:25461/live/tv/tv/18.m3u8
+#EXTINF:-1 group-title="ခန",7
+http://3shop.link:25461/live/tv/tv/28.m3u8
+#EXTINF:-1 group-title="ခန",6
+http://3shop.link:25461/live/tv/tv/30.m3u8
+#EXTINF:-1 group-title="ခန",gg
 
