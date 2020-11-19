@@ -125,8 +125,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 http://rec2.distv.net:80/pablo/123/441
-#EXTINF:-1 group-title="KIDS",Cartoon NEtwork
-http://tv.protvmm.live:5080/LiveApp/streams/533550312220721966214199.m3u8
+
 
 
 
@@ -495,43 +494,5 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
-
-#EXTINF:-1 group-title="SP",SPORT TV ၄
-http://3shop.link:25461/live/tv/tv/8.m3u8
-
-#EXTINF:-1 group-title="SP",fight
-http://3shop.link:25461/live/tv/tv/12.m3u8
-#EXTINF:-1 group-title="SP",SPORT TV 2
-http://3shop.link:25461/live/tv/tv/7.m3u8
-#EXTINF:-1 group-title="SP",ဘိုင် SPORT 1
-http://3shop.link:25461/live/tv/tv/1.m3u8
-#EXTINF:-1 group-title="SP",ဘိုင် SPORT 2
-http://3shop.link:25461/live/tv/tv/2.m3u8
-#EXTINF:-1 group-title="SP",ဘိုင် SPORT 3
-http://3shop.link:25461/live/tv/tv/3.m3u8
-
-#EXTINF:-1 group-title="ခန",1
-http://tv.protvmm.live:5080/LiveApp/streams/339736809563234772701548.m3u8
-#EXTINF:-1 group-title="ခန",2
-http://tv.protvmm.live:5080/LiveApp/streams/361370068372741804943809.m3u8
-#EXTINF:-1 group-title="ခန",3
-http://tv.protvmm.live:5080/LiveApp/streams/051800272554384399623963.m3u8
-#EXTINF:-1 group-title="ခန",4
-http://tv.protvmm.live:5080/LiveApp/streams/906776989787964521734533.m3u8
-#EXTINF:-1 group-title="ခန",5
-http://tv.protvmm.live:5080/LiveApp/streams/432138202182171188992319.m3u8
-#EXTINF:-1 group-title="ခန",6
-http://3shop.link:25461/live/tv/tv/24.m3u8
-#EXTINF:-1 group-title="ခန",6
-http://3shop.link:25461/live/tv/tv/16.m3u8
-#EXTINF:-1 group-title="ခန",6
-http://3shop.link:25461/live/tv/tv/17.m3u8
-#EXTINF:-1 group-title="ခန",8
-http://3shop.link:25461/live/tv/tv/18.m3u8
-#EXTINF:-1 group-title="ခန",7
-http://3shop.link:25461/live/tv/tv/28.m3u8
-#EXTINF:-1 group-title="ခန",6
-http://3shop.link:25461/live/tv/tv/30.m3u8
-#EXTINF:-1 group-title="ခန",gg
-#EXTINF:-1 group-title="ယာယီ",BUMBLEBEE
-http://3shop.link/Movies/2018/Bumblebee-2018(ProTV).mp4
+#EXTINF:-1 
+https://short.absidev.com/tv1254
