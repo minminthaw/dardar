@@ -506,3 +506,13 @@ https://short.absidev.com/anen
 https://short.absidev.com/billionaire2011
 #EXTINF:-1 group-title="ယာယီ",torpedo.2019
 https://short.absidev.com/torpedo.2019
+#EXTINF:-1 group-title="SP",SPORTTV_1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SP",SPORTTV_2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SP",SPORTTV_3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SP",SPORTTV_4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SP",SPORTTV_5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
