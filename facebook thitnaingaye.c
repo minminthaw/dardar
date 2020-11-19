@@ -129,7 +129,7 @@ http://rec2.distv.net:80/pablo/123/441
 
 
 
-#EXTINF:-1 group-title="test" group-title="SP",Dubai Sports 3
+#EXTINF:-1 group-title="SP",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-2 group-title="SP",ads4
 http://admdn4.cdn.mangomolo.com:80/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -138,20 +138,20 @@ http://admdn1.cdn.mangomolo.com:80/adsports1/smil:adsports1.stream.smil/chunklis
 #EXTINF:-2 group-title="SP",ads2
 http://admdn5.cdn.mangomolo.com:80/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="test" group-title="မြန်မာ",Channel K SD
+#EXTINF:-1 group-title="မြန်မာ",Channel K SD
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
-#EXTINF:-1 group-title="test" group-title="မြန်မာ",fortune
+#EXTINF:-1 group-title="မြန်မာ",fortune
 http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
 
-#EXTINF:-1 group-title="test" group-title="မြန်မာ",Mizzima TV
+#EXTINF:-1 group-title="မြန်မာ",Mizzima TV
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
-#EXTINF:-1 group-title="test" group-title="မြန်မာ",mm2
+#EXTINF:-1 group-title="မြန်မာ",mm2
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
-#EXTINF:-1 group-title="test" group-title="မြန်မာ",BUDDHA
+#EXTINF:-1 group-title="မြန်မာ",BUDDHA
 http://ip2121.com:8081/1394/mtv/chunks.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", mm1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", mm1
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
 
@@ -437,7 +437,7 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
 
 
 
-#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel K (မြန်မာ)
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel K (မြန်မာ)
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel 7 (မြန်မာ)
@@ -506,6 +506,8 @@ https://short.absidev.com/anen
 https://short.absidev.com/billionaire2011
 #EXTINF:-1 group-title="ယာယီ",torpedo.2019
 https://short.absidev.com/torpedo.2019
+
+
 #EXTINF:-1 group-title="SP",SPORTTV_1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SP",SPORTTV_2
