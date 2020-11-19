@@ -493,8 +493,10 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SP",SPORT TV ၄
-http://3shop.link:25461/live/tv/tv/10.m3u8
+http://3shop.link:25461/live/tv/tv/8.m3u8
 
+#EXTINF:-1 group-title="SP",fight
+http://3shop.link:25461/live/tv/tv/12.m3u8
 #EXTINF:-1 group-title="SP",SPORT TV 2
 http://3shop.link:25461/live/tv/tv/7.m3u8
 #EXTINF:-1 group-title="SP",ဘိုင် SPORT 1
