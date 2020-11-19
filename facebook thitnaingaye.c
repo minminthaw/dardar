@@ -514,8 +514,10 @@ http://3shop.link:25461/live/tv/tv/3.m3u8
 http://tv.protvmm.live:5080/LiveApp/streams/339736809563234772701548.m3u8
 #EXTINF:-1 group-title="ခန",2
 http://tv.protvmm.live:5080/LiveApp/streams/361370068372741804943809.m3u8
-#EXTINF:-1 group-title="ခန",SPORT TV ၄
+#EXTINF:-1 group-title="ခန",3
 http://tv.protvmm.live:5080/LiveApp/streams/051800272554384399623963.m3u8
-#EXTINF:-1 group-title="ခန",SPORT TV ၄
+#EXTINF:-1 group-title="ခန",4
 http://tv.protvmm.live:5080/LiveApp/streams/906776989787964521734533.m3u8
+#EXTINF:-1 group-title="ခန",5
+http://tv.protvmm.live:5080/LiveApp/streams/432138202182171188992319.m3u8
 
