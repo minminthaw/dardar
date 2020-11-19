@@ -502,5 +502,7 @@ https://short.absidev.com/movienowtem
 https://short.absidev.com/startsport
 #EXTINF:-1 group-title="ခန",AN Sport
 https://short.absidev.com/anen
-#EXTINF:-1 group-title="ယာယီ",Billionaire
+#EXTINF:-1 group-title="ယာယီ",Billionaire2011
 https://short.absidev.com/billionaire2011
+#EXTINF:-1 group-title="ယာယီ",torpedo.2019
+https://short.absidev.com/torpedo.2019
