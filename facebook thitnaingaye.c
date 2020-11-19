@@ -2,8 +2,6 @@
 #PLAYLIST:facebook_thitnaingaye
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar 
 https://d2e3tk355loocn.cloudfront.net/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel K 
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel 7 
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
@@ -38,12 +36,6 @@ https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southea
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV 4 
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
-#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRTV 
-http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
-
-#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MRIV 
- http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", MWD 
 http://203.81.84.130/hls/mwd/index.m3u8
