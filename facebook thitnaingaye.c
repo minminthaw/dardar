@@ -166,6 +166,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",BEIN MOVIES ACTION HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
+#EXTINF:0 group-title="ဖျော်ဖြေရေး",NET GEO WILD HD
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+
 #EXTINF:0 group-title="China",CCTV 2
 http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
 #EXTINF:0 group-title="China",CCTV 17
