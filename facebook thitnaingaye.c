@@ -491,16 +491,10 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="SP",SPORT TV 4
-http://tv.protvmm.live:5080/LiveApp/streams/301628655274315952453259.m3u8
 
 #EXTINF:-1 group-title="SP",SPORT TV ၄
 http://3shop.link:25461/live/tv/tv/10.m3u8
 
-#EXTINF:-1 group-title="SP",SPORT TV 3
-http://tv.protvmm.live:5080/LiveApp/streams/555150774283011419524494.m3u8
-#EXTINF:-1 group-title="SP",SPORT TV 1
-http://tv.protvmm.live:5080/LiveApp/streams/555150774283011419524494.m3u8
 #EXTINF:-1 group-title="SP",SPORT TV 2
 http://3shop.link:25461/live/tv/tv/7.m3u8
 #EXTINF:-1 group-title="SP",ဘိုင် SPORT 1
