@@ -9,7 +9,7 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Channel 9 
-https://stream.myanmartvchannels.com:999/website-channel9sd/website-channel9sd/chunks.m3u8?nimblesessionid=961745&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMCA0OjIxOjIzIFBNJmhhc2hfdmFsdWU9Y1pGK1k2YWZTQ2pGVWZnQkxUQ0pNdz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0zNw==
+https://stream.myanmartvchannels.com:999/website-channel9sd/website-channel9sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMCA0OjIxOjIzIFBNJmhhc2hfdmFsdWU9Y1pGK1k2YWZTQ2pGVWZnQkxUQ0pNdz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0zNw==
 
 #EXTINF:-1 group-title="မြန်မာ",Channel K SD
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
