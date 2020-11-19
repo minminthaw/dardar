@@ -533,4 +533,5 @@ http://3shop.link:25461/live/tv/tv/28.m3u8
 #EXTINF:-1 group-title="ခန",6
 http://3shop.link:25461/live/tv/tv/30.m3u8
 #EXTINF:-1 group-title="ခန",gg
-
+#EXTINF:-1 group-title="ယာယီ",BUMBLEBEE
+http://3shop.link/Movies/2018/Bumblebee-2018(ProTV).mp4
