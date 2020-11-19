@@ -576,20 +576,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 1
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 2
-https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 3
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 4
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 5
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzT3YI6.jpg" group-title="SPORTS 1", BT sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzT3YI6.jpg" group-title="SPORTS 1", BT sport 2
