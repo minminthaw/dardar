@@ -494,5 +494,5 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
-#EXTINF:-1 
+#EXTINF:-1,more
 https://short.absidev.com/tv1254
