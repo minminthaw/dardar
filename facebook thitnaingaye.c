@@ -520,3 +520,21 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SP",PremierHD5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF: -1 tvg-name="FOX SPORT 1" tvg-chno="278" tvg-logo="https://i.imgur.com/FlQaqsu.png" group-title="FOX",  True V FOX Sports 1 
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 2" tvg-chno="279" tvg-logo="https://i.imgur.com/ubdjoqe.png" group-title="FOX",  True V FOX Sports 2 
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 3" tvg-chno="280" tvg-logo="https://i.imgur.com/BYCucwd.png" group-title="FOX",  True V FOX Sports 3 
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 1" tvg-chno="278" tvg-logo="https://i.imgur.com/FlQaqsu.png" group-title="FOX",  FOX Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 2" tvg-chno="279" tvg-logo="https://i.imgur.com/ubdjoqe.png" group-title="FOX",  FOX Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 3" tvg-chno="280" tvg-logo="https://i.imgur.com/BYCucwd.png" group-title="FOX",  FOX Sports 3 Asia
+#EXTINF: -1 tvg-name="FOX SPORT 1" tvg-chno="278" tvg-logo="https://i.imgur.com/FlQaqsu.png" group-title="FOX",  True V FOX Sports 1 
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 2" tvg-chno="279" tvg-logo="https://i.imgur.com/ubdjoqe.png" group-title="FOX",  True V FOX Sports 2 
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-name="FOX SPORT 3" tvg-chno="280" tvg-logo="https://i.imgur.com/BYCucwd.png" group-title="FOX",  True V FOX Sports 3 
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
