@@ -550,3 +550,51 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 1 
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.gif" group-title="SPORTS 1", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eIuds9z.jpg" group-title="SPORTS 1",SkyNet Sport 6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzT3YI6.jpg" group-title="SPORTS 1", BT sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzT3YI6.jpg" group-title="SPORTS 1", BT sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS 1", Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
+#EXTINF:0 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS 1", Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
