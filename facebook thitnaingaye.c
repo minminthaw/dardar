@@ -180,7 +180,8 @@ http://220.158.149.14:9999/live/TV00000000000000000016@HHZT;LIVE
 
 #EXTINF:-1 group-title="KIDS",CARTOON
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
-
+#EXTINF:-1 group-title="KIDS",Animax
+http://210.210.155.35/session/af894b98-2aa3-11eb-b26c-8dedb77816cc/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="KIDS",PBS KID
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
 #EXTINF:-1 group-title="KIDS",3ABN KIDS TV 
