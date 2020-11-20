@@ -450,6 +450,8 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133274
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133276
 #EXTINF:-1 group-title="test",Sky DAZN SAT FHD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133275
+#EXTINF:-46
+https://short.absidev.com/mymmym
 #EXTINF:-1 group-title="test",DAZN 1 SD IT
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133314
 #EXTINF:-1 group-title="test",DAZN 1 HD IT
@@ -1173,8 +1175,7 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 ok
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-46
-https://short.absidev.com/happtv
+
 
 
 
