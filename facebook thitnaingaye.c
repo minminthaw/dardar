@@ -2755,8 +2755,6 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8
 #EXTINF:-1,Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
-https://raw.githubusercontent.com/bitsbb01/IPTVCAT/master/data/all-streams.json
-
 
 
 
