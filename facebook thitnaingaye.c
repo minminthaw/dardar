@@ -1169,7 +1169,7 @@ https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 TH
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BeIN Sports",BeIN SPORT 1 TH
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BeIN Sports",BeIN SPORT 1 Ok
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 TH
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 ok
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
