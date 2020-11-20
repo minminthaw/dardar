@@ -57,7 +57,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
-
+#EXTM3U
 #EXTINF:0 group-title="VIP" group-title="VIP",BNT 1
 http://136.243.177.164/BNT1/playlist.m3u8
 #EXTINF:0 group-title="VIP" group-title="VIP",BNT 2
@@ -74,6 +74,8 @@ http://136.243.177.164/NOVASPORT/playlist.m3u8
 http://136.243.177.164/KINONOVA/playlist.m3u8
 #EXTINF:0 group-title="VIP",BTV HD
 http://136.243.177.164/BTV/playlist.m3u8
+#EXTINF-46 
+https://short.absidev.com/mymmym
 #EXTINF:0 group-title="VIP",BTV ACTION
 http://136.243.177.164/BTVACTION/playlist.m3u8
 #EXTINF:0 group-title="VIP",BTV CINEMA
