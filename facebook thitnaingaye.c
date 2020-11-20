@@ -100,9 +100,9 @@ http://136.243.177.164/MAXSPORT3/playlist.m3u8
 http://136.243.177.164/MAXSPORT4/playlist.m3u8
 #EXTINF:0 group-title="VIP",RING HD
 http://136.243.177.164/RINGBG/playlist.m3u8
-#EXTINF:0 group-title="VIP",EUROSPORT 1
+#EXTINF:0 group-title="SP",EUROSPORT 1
 http://136.243.177.164/EUROSPORT/playlist.m3u8
-#EXTINF:0 group-title="VIP",EUROSPORT 2
+#EXTINF:0 group-title="SP",EUROSPORT 2
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
 #EXTINF:0 group-title="VIP",HBO
 http://136.243.177.164/HBO/playlist.m3u8
@@ -689,7 +689,7 @@ http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10373
 #EXTINF:-1 group-title="Dec",[MY] bEIN MAX
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10374
-#EXTINF:-1 group-title="Dec",[MY] EUROSPORT HD
+#EXTINF:-1 group-title="S",[MY] EUROSPORT HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10375
 #EXTINF:-1 group-title="Dec",[MY] WWE NETWORK
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10376
@@ -1173,3 +1173,9 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 ok
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-46
+https://short.absidev.com/happtv
+
+
+
+
