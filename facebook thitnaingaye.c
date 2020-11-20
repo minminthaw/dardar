@@ -1190,9 +1190,6 @@ https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southea
 #EXTINF:-1 tvg-logo="https://iili.io/3MXoRp.png" group-title="Dhamma",Thitsarparami FM
 https://edge.mixlr.com/channel/nmtev
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MXQmN.jpg" group-title="Myanmar",Developer
-https://media.publit.io/file/h_720/myvideo.mp4
-
 #EXTINF:-1 tvg-logo="https://iili.io/3MWMKJ.jpg" group-title="Myanmar", MRTV_4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
