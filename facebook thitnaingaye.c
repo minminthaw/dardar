@@ -1175,5 +1175,320 @@ https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 ok
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/FqKQHP.jpg" group-title="Dhamma", Dhamma 1
+https://media.publit.io/file/Dhamma_1.mp4
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/FqKtOF.jpg" group-title="Dhamma", Dhamma 2
+https://media.publit.io/file/dhamma_2.mp4
 
+#EXTINF:-1 tvg-logo="https://iili.io/FqKDDg.jpg" group-title="Dhamma", Dhamma 3                            
+https://media.publit.io/file/dhamma_4.mp4
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWNtt.jpg" group-title="Dhamma", Maharbawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXoRp.png" group-title="Dhamma",Thitsarparami FM
+https://edge.mixlr.com/channel/nmtev
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXQmN.jpg" group-title="Myanmar",Developer
+https://media.publit.io/file/h_720/myvideo.mp4
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWMKJ.jpg" group-title="Myanmar", MRTV_4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWh9p.jpg" group-title="Myanmar", Channel 7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3DVJff.jpg" group-title="Myanmar", Channel 9
+http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXffa.png" group-title="Myanmar", Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWPNS.jpg" group-title="Myanmar", DVB HD
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWPNS.jpg" group-title="Myanmar",DVB SD
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_mobile/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWZiu.png" group-title="Myanmar", Mahar
+https://5f49feccd0d91.streamlock.net/channel/mahar-web.smil/chunklist_w1095099820_b1200000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMCA2OjAxOjQ5IFBNJmhhc2hfdmFsdWU9SXEwQzlVdWNHRTJDdnhvSktMLzI3dz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yMg%3D%3D
+
+#EXTINF:-1 tvg-logo="https://iili.io/3DMZHN.png" group-title="Myanmar", MRTV HD
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWgS4.jpg" group-title="Myanmar", Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDk6MDE6MDAgQU0maGFzaF92YWx1ZT1HenlIMUdHL1MxY1J4NjJjemROMG5BPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTMx
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWiD7.jpg" group-title="Myanmar", MVM MYANMAR
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Variety http://203.81.84.130/hls/mwd_variety/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD FAMILY http://203.81.84.130/hls/mwd_family/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Document
+http://203.81.84.130/hls/mwd_document/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Shopping
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD SERIE
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar",MWD MOVIE
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXnJR.jpg" group-title="Myanmar", MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWyHQ.png" group-title="Myanmar", CINEMAX (MM)
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",Cookie ( Asia )
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",Cookie ( Rerun )
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/38nRcl.png" group-title="Cartoon", Miniforce X
+https://is.gd/X2RXUR
+
+#EXTINF:-1 tvg-logo="https://iili.io/3W5OMl.png" group-title="Cartoon",Nick JR
+https://cdnjt25.useetv.com/joss/14/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MjntI.png" group-title="Cartoon",Cartoon Network MM
+http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 1
+http://51.158.74.129/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MX1bS.jpg" group-title="Cartoon", Cartoon 2
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 3
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 4
+http://51.158.74.129/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 5
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 6
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/maxresdefault-1_12.jpg" group-title="Cartoon", Cartoon 7
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MjntI.png" group-title="Cartoon", Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/4/LoveNature_TypeMask_FINAL_webready.jpg" group-title="Discovery",Love Nature HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3Qn1un.png" group-title="Discovery", Net Geo Wild SD
+http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3Qn1un.png" group-title="Discovery", Net Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/4/LoveNature_TypeMask_FINAL_webready.jpg" group-title="Discovery",Love Nature 4k
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-logo.jpg" group-title="WWE UFC", WWE UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-logo.jpg" group-title="WWE UFC", WWE UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-logo.jpg" group-title="WWE UFC", WWE UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-logo.jpg" group-title="WWE UFC", WWE 1
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-logo.jpg" group-title="WWE UFC", WWE 2
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein sports xtra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport",Skynet Sport 6
+https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051
+
+#EXTINF:-1 tvg-logo="https://iili.io/3W58c7.png" group-title="Sport",EuroSport HD 2
+https://is.gd/vlfVIX
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXh0b.png" group-title="Sport", Voetbal sport
+https://shopp180.com/ziggo/voetbal/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sport", Premier Football SD 1
+https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="Sport", Premier Football SD 2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="Sport",Premier Football SD 3
+https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sport",Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="Sport",Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="Sport",Premier Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="Sport", Premier Football HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd5.png" group-title="Sport", Premier Football HD 5
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Sport", Sport.TV HD 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Sport", Sport.TV HD 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Sport", Sport.TV HD 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Sport", Sport.TV HD 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sport", Sport.TV HD 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/BT_Sport_1.png" group-title="Sport", BT SPORT HD 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/BT_Sport_2.png" group-title="Sport", BT SPORT HD 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",Bein Sport 1 (Asia)
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",Bein Sport 2 (Asia)
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sport", Sony Ten 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sport", Sony Ten 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sport", Sony Ten 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Premier Sport
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXtII.jpg" group-title="Sport", Chelsea TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXNdx.jpg" group-title="Sport", Real Madrid tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png" group-title="Sport", Fox Sport HD 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png" group-title="Sport", Fox Sport HD 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png" group-title="Sport", Fox Sport HD 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sport", Sony Ten 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sport", Sony Ten 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Premier Sport
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXtII.jpg" group-title="Sport", Chelsea TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXNdx.jpg" group-title="Sport", Real Madrid tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png" group-title="Sport", Fox Sport HD 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png" group-title="Sport", Fox Sport HD 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png" group-title="Sport", Fox Sport HD 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Other Sport", CCTV 5 Sport
+http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_551.jpg" group-title="Other Sport",PPTV HD Sport
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1_551.jpg" group-title="Other Sport",PPTV SD Sport
+http://183.182.100.184/live/pptvthai/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MXHOB.png" group-title="Radio",Cherry FM
+http://159.65.15.33:8000/;
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MX2x1.png" group-title="Radio",Padamyar FM
+https://s2.radio.co/s969e6c4b7/listen
+
+#EXTINF:-1 tvg-logo="https://iili.io/3QnIja.png" group-title="Music",Dance TV
+http://v2.catcast.me/content/37311/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3W5g9e.png" group-title="Music",MTV Music
+https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3Qncvt.png" group-title="Music",Song TV
+http://songtvam.ru:8060/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music",Kronehit TV SD
+https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b828000.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music",Enter Music TV
+http://v2.catcast.me/content/36007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", CMC ( USA)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", LATIDO
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Master
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Ecable TV
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Music Top 1
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Music Top 2
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Music Top 3
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Music Top 4
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/3MhnEu.jpg" group-title="Music", Karlpop
+https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 
