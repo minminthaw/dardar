@@ -480,6 +480,570 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133304
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Dec",[MY] ASTRO RIA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10269
+#EXTINF:-1 group-title="Dec",[MY] ASTRO PRIMA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10270
+#EXTINF:-1 group-title="Dec",[MY] ASTRO OASIS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10271
+#EXTINF:-1 group-title="Dec",[MY] ASTRO WARNA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10272
+#EXTINF:-1 group-title="Dec",[MY] ASTRO NAURA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10273
+#EXTINF:-1 group-title="Dec",[MY] TV ALHIJRAH
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10274
+#EXTINF:-1 group-title="Dec",[MY] COLORS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10275
+#EXTINF:-1 group-title="Dec",[MY] GO SHOP RUUMA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10276
+#EXTINF:-1 group-title="Dec",[MY] GO SHOP GAAYA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10277
+#EXTINF:-1 group-title="Dec",[MY] VAANAVIL
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10278
+#EXTINF:-1 group-title="Dec",[MY] MAKKAL TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10279
+#EXTINF:-1 group-title="Dec",[MY] SUN MUSIC
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10280
+#EXTINF:-1 group-title="Dec",[MY] CHUTTI TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10281
+#EXTINF:-1 group-title="Dec",[MY] ADITHYA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10282
+#EXTINF:-1 group-title="Dec",[MY] ZEE Tamil HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10285
+#EXTINF:-1 group-title="Dec",[MY] VINMEEN HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10286
+#EXTINF:-1 group-title="Dec",[MY] STAR VIJAY HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10287
+#EXTINF:-1 group-title="Dec",[MY] COLORS TAMIL
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10288
+#EXTINF:-1 group-title="Dec",[MY] SUN TV HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10289
+#EXTINF:-1 group-title="Dec",[MY] BOLLYONE HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10290
+#EXTINF:-1 group-title="Dec",[MY] iQIYI HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10291
+#EXTINF:-1 group-title="Dec",[MY] GO SHOP 2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10292
+#EXTINF:-1 group-title="Dec",[MY] XIAO TAI YANG HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10293
+#EXTINF:-1 group-title="Dec",[MY] TVB CLASSIC
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10294
+#EXTINF:-1 group-title="Dec",[MY] AEC HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10295
+#EXTINF:-1 group-title="Dec",[MY] SHUANG XING HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10296
+#EXTINF:-1 group-title="Dec",[MY] QUAN JIA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10297
+#EXTINF:-1 group-title="Dec",[MY] CELESTIAL HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10298
+#EXTINF:-1 group-title="Dec",[MY] WLT | JADE
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10299
+#EXTINF:-1 group-title="Dec",[MY] AOD 351 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10300
+#EXTINF:-1 group-title="Dec",[MY] CTI ASIA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10301
+#EXTINF:-1 group-title="Dec",[MY] TVB E-NEWS
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10302
+#EXTINF:-1 group-title="Dec",[MY] TVB XING HE HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10303
+#EXTINF:-1 group-title="Dec",[MY] TVBS ASIA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
+#EXTINF:-1 group-title="Dec",[MY] CCM
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10305
+#EXTINF:-1 group-title="Dec",[MY] HUA HEE DAI HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10306
+#EXTINF:-1 group-title="Dec",[MY] CCTV4 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10307
+#EXTINF:-1 group-title="Dec",[MY] AOD 352 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10308
+#EXTINF:-1 group-title="Dec",[MY] AOD 353 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10309
+#EXTINF:-1 group-title="Dec",[MY] AOD 354 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10310
+#EXTINF:-1 group-title="Dec",[MY] AOD 355 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10311
+#EXTINF:-1 group-title="Dec",[MY] KBS World HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10312
+#EXTINF:-1 group-title="Dec",[MY] ONE HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10313
+#EXTINF:-1 group-title="Dec",[MY] Oh!K HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10314
+#EXTINF:-1 group-title="Dec",[MY] tvN HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10315
+#EXTINF:-1 group-title="Dec",[MY] HITS MOVIES HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10316
+#EXTINF:-1 group-title="Dec",[MY] HBO HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10317
+#EXTINF:-1 group-title="Dec",[MY] CINEMAX HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10318
+#EXTINF:-1 group-title="Dec",[MY] tvN Movies
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10319
+#EXTINF:-1 group-title="Dec",[MY] ASTRO AWANI
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10320
+#EXTINF:-1 group-title="Dec",[MY] BNC
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10321
+#EXTINF:-1 group-title="Dec",[MY] CGTN
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10322
+#EXTINF:-1 group-title="Dec",[MY] CNN HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10323
+#EXTINF:-1 group-title="Dec",[MY] BBC News HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10324
+#EXTINF:-1 group-title="Dec",[MY] AL JAZEERA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10325
+#EXTINF:-1 group-title="Dec",[MY] SKY NEWS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10326
+#EXTINF:-1 group-title="Dec",[MY] CNA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10327
+#EXTINF:-1 group-title="Dec",[MY] CNBC
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10328
+#EXTINF:-1 group-title="Dec",[MY] BLOOMBERG TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10329
+#EXTINF:-1 group-title="Dec",[MY] ABC AUSTRALIA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10330
+#EXTINF:-1 group-title="Dec",[MY] NGW HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10331
+#EXTINF:-1 group-title="Dec",[MY] NAT GEO HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10332
+#EXTINF:-1 group-title="Dec",[MY] DISCOVERY HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10333
+#EXTINF:-1 group-title="Dec",[MY] DISCOVERY ASIA
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10334
+#EXTINF:-1 group-title="Dec",[MY] DISC SCI HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10335
+#EXTINF:-1 group-title="Dec",[MY] HISTORY HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10336
+#EXTINF:-1 group-title="Dec",[MY] ANIMAL PLANET HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10337
+#EXTINF:-1 group-title="Dec",[MY] TUTOR TV UPSR
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10338
+#EXTINF:-1 group-title="Dec",[MY] TUTOR TV PT3
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10339
+#EXTINF:-1 group-title="Dec",[MY] TUTOR TV SPM
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10340
+#EXTINF:-1 group-title="Dec",[MY] TVIQ
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10341
+#EXTINF:-1 group-title="Dec",[MY] ASTRO CERIA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10342
+#EXTINF:-1 group-title="Dec",[MY] DISNEY XD HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10343
+#EXTINF:-1 group-title="Dec",[MY] DISNEY JUNIOR
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10344
+#EXTINF:-1 group-title="Dec",[MY] DISNEY CHANNEL HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10345
+#EXTINF:-1 group-title="Dec",[MY] CARTOON NTWK HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10346
+#EXTINF:-1 group-title="Dec",[MY] NICKELODEON HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10347
+#EXTINF:-1 group-title="Dec",[MY] NICK JR
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10348
+#EXTINF:-1 group-title="Dec",[MY] AXN HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10349
+#EXTINF:-1 group-title="Dec",[MY] ASTRO HELLO
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10350
+#EXTINF:-1 group-title="Dec",[MY] KIX HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10351
+#EXTINF:-1 group-title="Dec",[MY] HITS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10352
+#EXTINF:-1 group-title="Dec",[MY] TLC HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10353
+#EXTINF:-1 group-title="Dec",[MY] FOOD NTWK HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10354
+#EXTINF:-1 group-title="Dec",[MY] AFN HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10355
+#EXTINF:-1 group-title="Dec",[MY] NATGEO PEOPLE
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10356
+#EXTINF:-1 group-title="Dec",[MY] WARNER TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10357
+#EXTINF:-1 group-title="Dec",[MY] C&I HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10358
+#EXTINF:-1 group-title="Dec",[MY] HGTV HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10359
+#EXTINF:-1 group-title="Dec",[MY] DMAX HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10360
+#EXTINF:-1 group-title="Dec",[MY] COMEDY CENTRAL
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10361
+#EXTINF:-1 group-title="Dec",[MY] MTV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10362
+#EXTINF:-1 group-title="Dec",[MY] ANIMAX
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10363
+#EXTINF:-1 group-title="Dec",[MY] eGG Network
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10364
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ARENA HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ASSP HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10366
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ASSP2 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10367
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ASSP3 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ASSP4 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369
+#EXTINF:-1 group-title="Dec",[MY] FOX SPORTS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10370
+#EXTINF:-1 group-title="Dec",[MY] FOX SPORTS 2 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10371
+#EXTINF:-1 group-title="Dec",[MY] FOX SPORTS 3 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372
+#EXTINF:-1 group-title="Dec",[MY] beIN SPORTS
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10373
+#EXTINF:-1 group-title="Dec",[MY] bEIN MAX
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10374
+#EXTINF:-1 group-title="Dec",[MY] EUROSPORT HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10375
+#EXTINF:-1 group-title="Dec",[MY] WWE NETWORK
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10376
+#EXTINF:-1 group-title="Dec",[MY] GOLF CHANNEL HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10377
+#EXTINF:-1 group-title="Dec",[MY] ASTRO RUGBY PASS TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10378
+#EXTINF:-1 group-title="Dec",[MY] ASTRO CRICKET
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10379
+#EXTINF:-1 group-title="Dec",[MY] ANIPLUS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10380
+#EXTINF:-1 group-title="Dec",[MY] KPLUS HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10381
+#EXTINF:-1 group-title="Dec",[MY] DW HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10382
+#EXTINF:-1 group-title="Dec",[MY] FRANCE24 HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10383
+#EXTINF:-1 group-title="Dec",[MY] Astro Citra HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11380
+#EXTINF:-1 group-title="Dec",[MY] FOX Action Movies
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11381
+#EXTINF:-1 group-title="Dec",[MY] FOX HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11382
+#EXTINF:-1 group-title="Dec",[MY] FOX Family Movies
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11383
+#EXTINF:-1 group-title="Dec",[MY] TV1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11603
+#EXTINF:-1 group-title="Dec",[MY] TV2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11604
+#EXTINF:-1 group-title="Dec",[MY] TV3
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11605
+#EXTINF:-1 group-title="Dec",[MY] BOO HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11673
+#EXTINF:-1 group-title="Dec",[MY] 8TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11843
+#EXTINF:-1 group-title="Dec",[MY] TV9
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11844
+#EXTINF:-1 group-title="Dec",[MY] Drama Sangat
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11845
+#EXTINF:-1 group-title="Dec",[MY] NTV7
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11846
+#EXTINF:-1 group-title="Dec",[MY] Baby TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11960
+#EXTINF:-1 group-title="Dec",[MY] BBC Earth HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11961
+#EXTINF:-1 group-title="Dec",[MY] BBC Lifestyle
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11962
+#EXTINF:-1 group-title="Dec",[MY] Blue Ant Entertainment
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11963
+#EXTINF:-1 group-title="Dec",[MY] Blue Ant Extreme
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11964
+#EXTINF:-1 group-title="Dec",[MY] Boomerang HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11965
+#EXTINF:-1 group-title="Dec",[MY] Cinema World HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11966
+#EXTINF:-1 group-title="Dec",[MY] Colors Cineplex
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11967
+#EXTINF:-1 group-title="Dec",[MY] Dreamworks HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11968
+#EXTINF:-1 group-title="Dec",[MY] Dunia Sinema
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11969
+#EXTINF:-1 group-title="Dec",[MY] FOX Life HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11970
+#EXTINF:-1 group-title="Dec",[MY] FOX Movies HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11971
+#EXTINF:-1 group-title="Dec",[MY] FX Cinema HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11972
+#EXTINF:-1 group-title="Dec",[MY] Jaya Max
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11973
+#EXTINF:-1 group-title="Dec",[MY] MTV Asia
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11974
+#EXTINF:-1 group-title="Dec",[MY] NatGeo Asia HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11975
+#EXTINF:-1 group-title="Dec",[MY] RTM Sports
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11977
+#EXTINF:-1 group-title="Dec",[MY] Now Jelli
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11978
+#EXTINF:-1 group-title="Dec",[MY] Paramount Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11979
+#EXTINF:-1 group-title="Dec",[MY] Pesona HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11980
+#EXTINF:-1 group-title="Dec",[MY] Salaam HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11981
+#EXTINF:-1 group-title="Dec",[MY] SCM Legend
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11982
+#EXTINF:-1 group-title="Dec",[MY] SCM
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11983
+#EXTINF:-1 group-title="Dec",[MY] SETi Chinese
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11984
+#EXTINF:-1 group-title="Dec",[MY] Sony SAB
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11985
+#EXTINF:-1 group-title="Dec",[MY] Sony SetMAX
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11986
+#EXTINF:-1 group-title="Dec",[MY] Sony TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11987
+#EXTINF:-1 group-title="Dec",[MY] Star Chinese Channel HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11988
+#EXTINF:-1 group-title="Dec",[MY] Travel Channel HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11989
+#EXTINF:-1 group-title="Dec",[MY] UTV Movies International
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11990
+#EXTINF:-1 group-title="Dec",[MY] Astro Rania HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11991
+#EXTINF:-1 group-title="Dec",[MY] Astro Aura HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11992
+#EXTINF:-1 group-title="Dec",[MY] ABO Movie Thangathirai
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/14577
+#EXTINF:-1 group-title="Dec",[MY] ABO Tayangan Hebat
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/14576
+#EXTINF:-1 group-title="Dec",[MY] Awesome TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/14578
+#EXTINF:-1 group-title="Dec",[MY] TVS
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/16023
+#EXTINF:-1 group-title="Dec",[MY] ASTRO ASSP Plus HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/16024
+#EXTINF:-1 group-title="Dec",[SG] Channel 5
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/329
+#EXTINF:-1 group-title="Dec",[SG] Channel 8
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/330
+#EXTINF:-1 group-title="Dec",[SG] Channel U
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/331
+#EXTINF:-1 group-title="Dec",[SG] CNA 
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/332
+#EXTINF:-1 group-title="Dec",[SG] Suria
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/334
+#EXTINF:-1 group-title="Dec",[SG] Vasantham
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/335
+#EXTINF:-1 group-title="Dec",[BRUNEI] RTB Sukmaindera
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/14072
+#EXTINF:-1 group-title="Dec",[CN] BabyTV Mandarin
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/5945
+#EXTINF:-1 group-title="Dec",[CN] Pacvia TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/5953
+#EXTINF:-1 group-title="Dec",[CN] China Movie Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/5965
+#EXTINF:-1 group-title="Dec",[CN] CGTN Documentary
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/5966
+#EXTINF:-1 group-title="Dec",[CN] CCTV 1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6018
+#EXTINF:-1 group-title="Dec",[CN] CCTV 2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6019
+#EXTINF:-1 group-title="Dec",[CN] CCTV 3
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6020
+#EXTINF:-1 group-title="Dec",[CN] CCTV 4
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6021
+#EXTINF:-1 group-title="Dec",[CN] CCTV 5
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6022
+#EXTINF:-1 group-title="Dec",[CN] CCTV 5+
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6023
+#EXTINF:-1 group-title="Dec",[CN] CCTV 6
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6024
+#EXTINF:-1 group-title="Dec",[CN] CCTV 7
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6025
+#EXTINF:-1 group-title="Dec",[CN] CCTV 8
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6026
+#EXTINF:-1 group-title="Dec",[CN] CCTV 9
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6027
+#EXTINF:-1 group-title="Dec",[CN] CCTV 10
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6028
+#EXTINF:-1 group-title="Dec",[CN] CCTV 11
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6029
+#EXTINF:-1 group-title="Dec",[CN] CCTV 12
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6030
+#EXTINF:-1 group-title="Dec",[CN] CCTV 13
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6031
+#EXTINF:-1 group-title="Dec",[CN] CCTV 14
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6032
+#EXTINF:-1 group-title="Dec",[CN] CCTV 15
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6033
+#EXTINF:-1 group-title="Dec",[CN] Guangdong Southern TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6035
+#EXTINF:-1 group-title="Dec",[CN] XMTV 1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6042
+#EXTINF:-1 group-title="Dec",[CN] XMTV 2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6043
+#EXTINF:-1 group-title="Dec",[CN] XMTV 3
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6044
+#EXTINF:-1 group-title="Dec",[CN] XMTV Star
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6045
+#EXTINF:-1 group-title="Dec",[CN] 韩国CBS
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6055
+#EXTINF:-1 group-title="Dec",[CN] CCTV Entertainment
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6056
+#EXTINF:-1 group-title="Dec",[CN] CCTV Opera
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6057
+#EXTINF:-1 group-title="Dec",[CN] Dragon TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6060
+#EXTINF:-1 group-title="Dec",[CN] Anhui
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6061
+#EXTINF:-1 group-title="Dec",[CN] Beijing
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6062
+#EXTINF:-1 group-title="Dec",[CN] Chongqing
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6063
+#EXTINF:-1 group-title="Dec",[CN] Dongfang
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6064
+#EXTINF:-1 group-title="Dec",[CN] Dongnan
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6065
+#EXTINF:-1 group-title="Dec",[CN] Fenghuangzw
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6066
+#EXTINF:-1 group-title="Dec",[CN] Fenghuangzx
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6067
+#EXTINF:-1 group-title="Dec",[CN] Gansu
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6068
+#EXTINF:-1 group-title="Dec",[CN] Guangdong
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6069
+#EXTINF:-1 group-title="Dec",[CN] Guangxi
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6070
+#EXTINF:-1 group-title="Dec",[CN] Guizhou
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6071
+#EXTINF:-1 group-title="Dec",[CN] Hebei
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6072
+#EXTINF:-1 group-title="Dec",[CN] Heilongjiang
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6073
+#EXTINF:-1 group-title="Dec",[CN] Henan
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6074
+#EXTINF:-1 group-title="Dec",[CN] Hubei
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6075
+#EXTINF:-1 group-title="Dec",[CN] Hunan
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6076
+#EXTINF:-1 group-title="Dec",[CN] Jiangsu
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6077
+#EXTINF:-1 group-title="Dec",[CN] Jiangxi
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6078
+#EXTINF:-1 group-title="Dec",[CN] Jilin
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6079
+#EXTINF:-1 group-title="Dec",[CN] Liaoning
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6080
+#EXTINF:-1 group-title="Dec",[CN] Neimenggu
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6081
+#EXTINF:-1 group-title="Dec",[CN] Ningxia
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6082
+#EXTINF:-1 group-title="Dec",[CN] Qinghai
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6083
+#EXTINF:-1 group-title="Dec",[CN] Shandongjy
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6084
+#EXTINF:-1 group-title="Dec",[CN] Shandong
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6085
+#EXTINF:-1 group-title="Dec",[CN] Shanxi1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6086
+#EXTINF:-1 group-title="Dec",[CN] Shanxi
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6087
+#EXTINF:-1 group-title="Dec",[CN] Shenzhen
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6088
+#EXTINF:-1 group-title="Dec",[CN] Sichuan
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6089
+#EXTINF:-1 group-title="Dec",[CN] Tianjin
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6090
+#EXTINF:-1 group-title="Dec",[CN] Xinjiang
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6091
+#EXTINF:-1 group-title="Dec",[CN] Yunnan
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6092
+#EXTINF:-1 group-title="Dec",[CN] Zhejiang
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6093
+#EXTINF:-1 group-title="Dec",[CN] Fujian Straits TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/9937
+#EXTINF:-1 group-title="Dec",[CN] Jiangsu International Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/9939
+#EXTINF:-1 group-title="Dec",[HK] VIUTVsix
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6094
+#EXTINF:-1 group-title="Dec",[HK] ViuTV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6095
+#EXTINF:-1 group-title="Dec",[HK] FTV News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6096
+#EXTINF:-1 group-title="Dec",[HK] TVBS
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6097
+#EXTINF:-1 group-title="Dec",[HK] Great Wall Fresh
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6098
+#EXTINF:-1 group-title="Dec",[HK] Great Wall Elite
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6099
+#EXTINF:-1 group-title="Dec",[HK] Phoenix North America Chinese Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6100
+#EXTINF:-1 group-title="Dec",[HK] TVBJ-1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6101
+#EXTINF:-1 group-title="Dec",[HK] TVB News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6102
+#EXTINF:-1 group-title="Dec",[HK] USTV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6103
+#EXTINF:-1 group-title="Dec",[HK] TTV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6104
+#EXTINF:-1 group-title="Dec",[HK] Skylink Television 2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6105
+#EXTINF:-1 group-title="Dec",[HK] Skylink Television
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6106
+#EXTINF:-1 group-title="Dec",[HK] SETi
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6107
+#EXTINF:-1 group-title="Dec",[HK] iCiTi
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6108
+#EXTINF:-1 group-title="Dec",[HK] Formosa TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6109
+#EXTINF:-1 group-title="Dec",[HK] CTS America
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6110
+#EXTINF:-1 group-title="Dec",[HK] FTV News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6111
+#EXTINF:-1 group-title="Dec",[HK] NTD TV
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6112
+#EXTINF:-1 group-title="Dec",[HK] ET Financial News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6113
+#EXTINF:-1 group-title="Dec",[HK] TVBS News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6114
+#EXTINF:-1 group-title="Dec",[HK] 信吉电视
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6115
+#EXTINF:-1 group-title="Dec",[HK] TVB XIngHe
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6116
+#EXTINF:-1 group-title="Dec",[HK] 唯心电视台
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6117
+#EXTINF:-1 group-title="Dec",[HK] 奇妙电视
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6118
+#EXTINF:-1 group-title="Dec",[HK] YoYo
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6128
+#EXTINF:-1 group-title="Dec",[HK] RTHK31
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6129
+#EXTINF:-1 group-title="Dec",[HK] Phoenix InfoNews
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6130
+#EXTINF:-1 group-title="Dec",[HK] Phoenix Hong Kong HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6131
+#EXTINF:-1 group-title="Dec",[HK] 唯心頻道
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6132
+#EXTINF:-1 group-title="Dec",[HK] 天映頻道
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6133
+#EXTINF:-1 group-title="Dec",[HK] NTD Asia
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6134
+#EXTINF:-1 group-title="Dec",[HK] 民视新聞
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6135
+#EXTINF:-1 group-title="Dec",[HK] RTHK32
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6136
+#EXTINF:-1 group-title="Dec",[HK] TVB Drama
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6137
+#EXTINF:-1 group-title="Dec",[HK] Now Jelli
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6138
+#EXTINF:-1 group-title="Dec",[HK] TVB Jade
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6139
+#EXTINF:-1 group-title="Dec",[HK] Now Chinese Drama Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6140
+#EXTINF:-1 group-title="Dec",[HK] Now Drama Channel
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6141
+#EXTINF:-1 group-title="Dec",[HK] TVBE
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6142
+#EXTINF:-1 group-title="Dec",[HK] TVB1
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6143
+#EXTINF:-1 group-title="Dec",[HK] Now News HD
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7561
+#EXTINF:-1 group-title="Dec",[HK] ET Chinese
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7562
+#EXTINF:-1 group-title="Dec",[HK] CTS America
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7563
+#EXTINF:-1 group-title="Dec",[HK] ET Global
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7564
+#EXTINF:-1 group-title="Dec",[HK] ET News
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7565
+#EXTINF:-1 group-title="Dec",[HK] ET Drama
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/7566
+#EXTINF:-1 group-title="Dec",[HK] TVBJ-2
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/9920
+
 
 
 
