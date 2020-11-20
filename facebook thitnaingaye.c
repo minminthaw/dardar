@@ -74,8 +74,7 @@ http://136.243.177.164/NOVASPORT/playlist.m3u8
 http://136.243.177.164/KINONOVA/playlist.m3u8
 #EXTINF:0 group-title="VIP",BTV HD
 http://136.243.177.164/BTV/playlist.m3u8
-#EXTINF-46 
-https://short.absidev.com/mymmym
+
 #EXTINF:0 group-title="VIP",BTV ACTION
 http://136.243.177.164/BTVACTION/playlist.m3u8
 #EXTINF:0 group-title="VIP",BTV CINEMA
