@@ -58,6 +58,95 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာ",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 1
+http://136.243.177.164/BNT1/playlist.m3u8
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 2
+http://136.243.177.164/BNT2/playlist.m3u8
+#EXTINF:0 group-title="VIP" group-title="VIP",BNT 3
+http://136.243.177.164/BNT3/playlist.m3u8
+#EXTINF:0 group-title="VIP",BNT 4
+http://136.243.177.164/BNT4/playlist.m3u8
+#EXTINF:0 group-title="VIP",NOVA TV
+http://136.243.177.164/NOVATV/playlist.m3u8
+#EXTINF:0 group-title="VIP",NOVA SPORT
+http://136.243.177.164/NOVASPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",KINO NOVA
+http://136.243.177.164/KINONOVA/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV HD
+http://136.243.177.164/BTV/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV ACTION
+http://136.243.177.164/BTVACTION/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV CINEMA
+http://136.243.177.164/BTVCINEMA/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV COMEDY
+http://136.243.177.164/BTVCOMEDY/playlist.m3u8
+#EXTINF:0 group-title="VIP",BTV LADY HD
+http://136.243.177.164/BTVLADY/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA
+http://136.243.177.164/DIEMA/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA FAMILY
+http://136.243.177.164/DIEMAFAMILY/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA SPORT HD
+http://136.243.177.164/DIEMASPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",DIEMA SPORT 2 HD
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 1 HD
+http://136.243.177.164/MAXSPORT1/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 2 HD
+http://136.243.177.164/MAXSPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 3 HD
+http://136.243.177.164/MAXSPORT3/playlist.m3u8
+#EXTINF:0 group-title="VIP",MAX SPORT 4 HD
+http://136.243.177.164/MAXSPORT4/playlist.m3u8
+#EXTINF:0 group-title="VIP",RING HD
+http://136.243.177.164/RINGBG/playlist.m3u8
+#EXTINF:0 group-title="VIP",EUROSPORT 1
+http://136.243.177.164/EUROSPORT/playlist.m3u8
+#EXTINF:0 group-title="VIP",EUROSPORT 2
+http://136.243.177.164/EUROSPORT2/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO 2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:0 group-title="VIP",HBO 3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:0 group-title="VIP",Cinemax 1 HD
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:0 group-title="VIP",Cinemax 2 HD
+http://136.243.177.164/CINEMAX2/playlist.m3u8
+#EXTINF:0 group-title="VIP",AXN HD
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX CRIME HD
+http://136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:0 group-title="VIP",FOX LIFE HD
+http://136.243.177.164/FOXLIFE/playlist.m3u8
+#EXTINF:0 group-title="VIP",TLC
+http://136.243.177.164/TLC/playlist.m3u8
+#EXTINF:0 group-title="VIP",78 TV HD
+http://136.243.177.164/78TV/playlist.m3u8
+#EXTINF:0 group-title="VIP",ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:0 group-title="VIP",NATIONAL GEOGRAPHIC
+http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
+#EXTINF:0 group-title="VIP",DISCOVERY CHANNEL
+http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:0 group-title="VIP",ID HD
+http://136.243.177.164/IDXTRA/playlist.m3u8
+#EXTINF:0 group-title="VIP",24 KITCHEN HD
+http://136.243.177.164/24KITCHEN/playlist.m3u8
+#EXTINF:0 group-title="VIP",CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:0 group-title="VIP",NICKELODEON
+http://136.243.177.164/NICKELODEON/playlist.m3u8
+#EXTINF:0 group-title="VIP",THE VOICE
+http://136.243.177.164/THEVOICE/playlist.m3u8
+#EXTINF:0 group-title="VIP",CITYTV
+http://136.243.177.164/CITYTV/playlist.m3u8
+#EXTINF:0 group-title="VIP",FEN TV
+http://136.243.177.164/FENTV/playlist.m3u8
+
 
 #EXTINF:0 group-title="ဖျော်ဖြေရေး",&flixHD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
