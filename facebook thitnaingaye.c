@@ -1222,9 +1222,11 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Variety http://203.81.84.130/hls/mwd_variety/index.m3u8 
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD FAMILY http://203.81.84.130/hls/mwd_family/index.m3u8 
+#EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD FAMILY 
+http://203.81.84.130/hls/mwd_family/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3MWSKG.jpg" group-title="Myanmar", MWD Document
 http://203.81.84.130/hls/mwd_document/index.m3u8 
@@ -1241,23 +1243,15 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3MXnJR.jpg" group-title="Myanmar", MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MWyHQ.png" group-title="Myanmar", CINEMAX (MM)
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",Cookie ( Asia )
+#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",မုန့် ( Asia )
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",Cookie ( Rerun )
+#EXTINF:-1 tvg-logo="https://iili.io/3MWmUx.jpg" group-title="Myanmar",မုန့် ( Rerun )
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/38nRcl.png" group-title="Cartoon", Miniforce X
-https://is.gd/X2RXUR
 
 #EXTINF:-1 tvg-logo="https://iili.io/3W5OMl.png" group-title="Cartoon",Nick JR
 https://cdnjt25.useetv.com/joss/14/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3MjntI.png" group-title="Cartoon",Cartoon Network MM
-http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/3MXXqu.jpg" group-title="Cartoon", Cartoon 1
 http://51.158.74.129/hls/stream.m3u8
