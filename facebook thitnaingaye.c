@@ -1115,10 +1115,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 SD
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 HD
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 1 HD
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 HD
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
@@ -1307,14 +1310,6 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3MXrqg.png" group-title="BeinSports", bein sports xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport",Skynet Sport 6
-https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051
-
-#EXTINF:-1 tvg-logo="https://iili.io/3W58c7.png" group-title="Sport",EuroSport HD 2
-https://is.gd/vlfVIX
-
-#EXTINF:-1 tvg-logo="https://iili.io/3MXh0b.png" group-title="Sport", Voetbal sport
-https://shopp180.com/ziggo/voetbal/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sport", Premier Football SD 1
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
@@ -1368,40 +1363,15 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sport", Sony Ten 1
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+https://short.absidev.com/whatis1
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sport", Sony Ten 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+https://short.absidev.com/whatis2
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sport", Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Premier Sport
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",TVRI Sport
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3MXtII.jpg" group-title="Sport", Chelsea TV
-https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/3MXNdx.jpg" group-title="Sport", Real Madrid tv
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png" group-title="Sport", Fox Sport HD 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png" group-title="Sport", Fox Sport HD 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png" group-title="Sport", Fox Sport HD 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sport", Sony Ten 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sport", Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-
+https://short.absidev.com/whatis3
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sport", Sony Ten Six
+http://208.115.215.42/Sony_Six_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Premier Sport
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
 
