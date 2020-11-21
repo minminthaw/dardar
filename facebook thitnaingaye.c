@@ -2849,7 +2849,10 @@ http://clientarea.ltd:2052/110185/110185/54582
 http://clientarea.ltd:2052/110185/110185/32091
 #EXTINF:-1 group-title="ဘိုင်အားကစား",Bein Sports HD16
 http://clientarea.ltd:2052/110185/110185/32092
-
-
-
+#EXTINF:-1 group-title="ဘိုင်အားကစား",Fox Sports 
+https://b.eplayer.xyz:30443/live/SDsQgHfB/chunks.m3u8
+#EXTINF:-1 group-title="ဘိုင်အားကစား",Sky Sports 1
+https://b.eplayer.xyz:30443/live/vhXUgerB/chunks.m3u8
+#EXTINF:-1 group-title="ဘိုင်အားကစား",RMC sport 1
+https://b.eplayer.xyz:30443/live/YLzqkteY/chunks.m3u8
 
