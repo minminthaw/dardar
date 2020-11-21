@@ -1102,6 +1102,7 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-name="FOX SPORT 3" tvg-chno="280" tvg-logo="https://i.imgur.com/BYCucwd.png" group-title="FOX",  True V FOX Sports 3 
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pa76wzj.jpg" group-title="HBO", HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j83f8jq.jpg" group-title="HBO", HBO Hits 
@@ -1113,8 +1114,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxyOKpj.jpg" group-title="HBO", Red by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcBpbuq.jpg" group-title="HBO", Cinemax MM
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 SD
 https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4zmFrD.jpg" group-title="SPORTS 1", TRUE SPORT 2 HD
