@@ -2855,4 +2855,7 @@ https://b.eplayer.xyz:30443/live/SDsQgHfB/chunks.m3u8
 https://b.eplayer.xyz:30443/live/vhXUgerB/chunks.m3u8
 #EXTINF:-1 group-title="ဘိုင်အားကစား",RMC sport 1
 https://b.eplayer.xyz:30443/live/YLzqkteY/chunks.m3u8
-
+#EXTINF:-1 group-title="ဘိုင်အားကစား",PL: CANAL SPORT 1 HD
+http://clientarea.ltd:2052/110185/110185/51264
+#EXTINF:-1 group-title="ဘိုင်အားကစား",PL: CANAL  SPORT 2 HD
+http://clientarea.ltd:2052/110185/110185/51265
