@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:facebook_thitnaingaye
+#PLAYLIST:facebook_
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar 
 https://d2e3tk355loocn.cloudfront.net/stream.m3u8
 
